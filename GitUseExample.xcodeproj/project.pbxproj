@@ -15,6 +15,7 @@
 		3CD098DD21ACCCBA00019A9F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3CD098DB21ACCCBA00019A9F /* LaunchScreen.storyboard */; };
 		3CD098E821ACCCBA00019A9F /* GitUseExampleTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3CD098E721ACCCBA00019A9F /* GitUseExampleTests.swift */; };
 		3CD098F321ACCCBA00019A9F /* GitUseExampleUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3CD098F221ACCCBA00019A9F /* GitUseExampleUITests.swift */; };
+		A436CF8521B95B6F00A4802D /* MapForItinerary.swift in Sources */ = {isa = PBXBuildFile; fileRef = A436CF8421B95B6F00A4802D /* MapForItinerary.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		3CD098EE21ACCCBA00019A9F /* GitUseExampleUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = GitUseExampleUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		3CD098F221ACCCBA00019A9F /* GitUseExampleUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GitUseExampleUITests.swift; sourceTree = "<group>"; };
 		3CD098F421ACCCBA00019A9F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A436CF8421B95B6F00A4802D /* MapForItinerary.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapForItinerary.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +103,7 @@
 			children = (
 				3CD098CF21ACCCB900019A9F /* AppDelegate.swift */,
 				3CD098D121ACCCB900019A9F /* ViewController.swift */,
+				A436CF8421B95B6F00A4802D /* MapForItinerary.swift */,
 				3CD098D321ACCCB900019A9F /* Main.storyboard */,
 				3CD098D921ACCCBA00019A9F /* Assets.xcassets */,
 				3CD098DB21ACCCBA00019A9F /* LaunchScreen.storyboard */,
@@ -259,6 +262,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A436CF8521B95B6F00A4802D /* MapForItinerary.swift in Sources */,
 				3CD098D221ACCCB900019A9F /* ViewController.swift in Sources */,
 				3CD098D821ACCCB900019A9F /* GitUseExample.xcdatamodeld in Sources */,
 				3CD098D021ACCCB900019A9F /* AppDelegate.swift in Sources */,
